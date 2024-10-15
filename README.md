@@ -4,7 +4,9 @@ I’m a technical writer focusing on cybersecurity and software documentation. I
 
 ### Skills:
 - Technical Writing
-- Markdown & GitHub
+- Ux Writing
+- Markdown, Json & GitHub
+- Social Psicology
 - Cybersecurity basics
 
 ### Projects:
