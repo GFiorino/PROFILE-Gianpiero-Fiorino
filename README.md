@@ -8,6 +8,10 @@ I’m a technical writer focusing on cybersecurity and software documentation. I
 - 📄 Markdown, JSON & GitHub
 - 🧠 Social Psychology
 - 🔐 Cybersecurity Basics
+- 🐧 Basic Linux Knowledge
+- 🐍 Python (Basics)
+- 🎨 Figma
+- 📝 MS Word
 
 ## Projects:
 - [NASA Mars Rover Photos API Documentation](https://github.com/GF-Technical/NASA-Mars-Rover-Photos-API-Documentation)
@@ -27,4 +31,7 @@ Looking forward to connecting and collaborating on projects!
 ![Technical Writing](https://img.shields.io/badge/Skill-Technical%20Writing-blue)
 ![Markdown](https://img.shields.io/badge/Skill-Markdown-blue)
 ![JSON](https://img.shields.io/badge/Skill-JSON-blue)
-![Cybersecurity](https://img.shields.io/badge/Skill-Cybersecurity-blue)
+![Linux](https://img.shields.io/badge/Skill-Linux-blue)
+![Python](https://img.shields.io/badge/Skill-Python-blue)
+![Figma](https://img.shields.io/badge/Skill-Figma-blue)
+![MS Word](https://img.shields.io/badge/Skill-MS%20Word-blue)
