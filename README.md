@@ -1,29 +1,30 @@
-# Hi, I'm Gianpiero 👋
 
-I’m a technical writer focusing on cybersecurity and software documentation. I love creating clear, concise guides that make technology accessible to everyone.
+# Gianpiero F. - Technical Writer
+
+I’m a technical writer specializing in cybersecurity and software documentation. My mission is to make complex technical concepts accessible to everyone through clear and concise guides. I'm passionate about bridging the gap between technology and users by creating documentation that enhances understanding and usability.
 
 ## Skills:
-- 📝 Technical Writing
-- ✏️ UX Writing
-- 📄 Markdown, JSON & GitHub
-- 🧠 Social Psychology
-- 🔐 Cybersecurity Basics
-- 🐧 Basic Linux Knowledge
-- 🐍 Python (Basics)
-- 🎨 Figma
-- 📝 MS Word
+- 📝 Technical Writing (API Documentation, User Guides)
+- ✏️ UX Writing (User Flows, Microcopy)
+- 📄 Tools: Markdown, JSON, GitHub, Figma, MS Word
+- 🔐 Cybersecurity Fundamentals (Network Security, Best Practices)
+- 🐧 Basic Linux Knowledge (CLI Basics)
+- 🐍 Python (Basics - Scripting, Automation)
+- 💻 Information Architecture (Document Structuring)
 
 ## Projects:
-- [NASA Mars Rover Photos API Documentation](https://github.com/GF-Technical/NASA-Mars-Rover-Photos-API-Documentation)
-- [OpenWeather API Documentation](https://github.com/GF-Technical/OpenWeather-API-DOC)
-- [Secure WiFi Guide](https://github.com/GF-Technical/Secure-WiFi-Guide)
+- [NASA Mars Rover Photos API Documentation](https://github.com/GF-Technical/NASA-Mars-Rover-Photos-API-Documentation) - A detailed guide on interacting with the NASA Mars Rover API.
+- [AI-Enhanced Cybersecurity Strategies for SMEs](https://github.com/GF-Technical/AI-Enhanced-Cybersecurity) - Documenting cybersecurity best practices tailored for small and medium enterprises.
+- [OpenWeather API Documentation](https://github.com/GF-Technical/OpenWeather-API-DOC) - Comprehensive weather API documentation for developers.
+- [How to Secure Home WiFi Guide](https://github.com/GF-Technical/How-To-Secure-Home-Wifi-Guide) - A step-by-step guide to enhance home network security.
 
 ## About Me
-I'm currently building my technical writing portfolio and aiming to transition into a career in software and cybersecurity documentation. I focus on creating user-friendly content that helps bridge the gap between complex technology and everyday users.
+With a background in technical writing and a keen interest in cybersecurity, I'm building a portfolio that demonstrates my expertise in software and API documentation. I am committed to creating user-friendly documentation that makes technology intuitive and accessible, helping users and developers alike.
 
 ## Currently Learning
-- 📘 MadCap Flare
-- 📚 Advanced API Documentation Techniques
+- 📘 MadCap Flare (Authoring Software)
+- 📚 Advanced API Documentation Techniques (Swagger, Postman)
+- 💻 Information Architecture (Structuring User Manuals)
 
 ## Get In Touch
 Looking forward to connecting and collaborating on projects!
