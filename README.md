@@ -23,7 +23,7 @@ I am a technical writer with a strong foundation in API documentation, Markdown,
    - **Skills Used**: Markdown, JSON, GitHub
    - **Key Features**: Detailed endpoint documentation, parameter explanation, example requests and responses, troubleshooting tips.
 
-2. **[OpenWeather API Documentation](https://github.com/GFiorino/OpenWeather-API)**
+2. **[OpenWeather API Documentation](https://github.com/GFiorino/OpenWeather-API-DOC)**
    - **Overview**: Created API documentation for OpenWeather, making weather data retrieval accessible to developers.
    - **Skills Used**: Markdown, JSON, GitHub
    - **Key Features**: Endpoint details, authentication setup, example usage, response structure.
