@@ -18,7 +18,7 @@ I am a technical writer with a strong foundation in API documentation, Markdown,
 
 ## Projects
 
-1. **[NASA Mars Rover API Documentation](https://github.com/GFiorino/NASA-Mars-Rover-API)**
+1. ** [NASA Mars Rover Photos API Documentation](https://github.com/GFiorino/NASA-Mars-Rover-Photos-API-Documentation)**
    - **Overview**: Comprehensive documentation for the NASA Mars Rover Photos API to help developers efficiently retrieve rover images.
    - **Skills Used**: Markdown, JSON, GitHub
    - **Key Features**: Detailed endpoint documentation, parameter explanation, example requests and responses, troubleshooting tips.
