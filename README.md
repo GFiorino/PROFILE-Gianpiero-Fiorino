@@ -17,8 +17,8 @@ I am a technical writer with a strong foundation in API documentation, Markdown,
 ---
 
 ## Projects
-
-1. ** [NASA Mars Rover Photos API Documentation](https://github.com/GFiorino/NASA-Mars-Rover-Photos-API-Documentation)**
+ 
+1. **[NASA Mars Rover Photos API Documentation](https://github.com/GFiorino/NASA-Mars-Rover-Photos-API-Documentation)**
    - **Overview**: Comprehensive documentation for the NASA Mars Rover Photos API to help developers efficiently retrieve rover images.
    - **Skills Used**: Markdown, JSON, GitHub
    - **Key Features**: Detailed endpoint documentation, parameter explanation, example requests and responses, troubleshooting tips.
@@ -32,6 +32,12 @@ I am a technical writer with a strong foundation in API documentation, Markdown,
    - **Overview**: A user guide on securing home WiFi networks to enhance cybersecurity awareness.
    - **Skills Used**: Markdown, GitHub
    - **Key Features**: Step-by-step instructions, visuals, FAQs, and troubleshooting.
+
+4. **[AI-Enhanced Cybersecurity Strategies for Small Businesses](https://github.com/GFiorino/AI-Enhanced-Cybersecurity-Strategies-for-Small-Businesses)**
+   - **Overview**: A comprehensive guide detailing how small businesses can leverage artificial intelligence to bolster their cybersecurity measures.
+   - **Skills Used**: Markdown, GitHub
+   - **Key Features**: In-depth analysis of AI applications in cybersecurity, practical implementation strategies, case studies, and best practices tailored for small enterprises.
+
 
 ---
 
