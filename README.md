@@ -28,7 +28,7 @@ I am a technical writer with a strong foundation in API documentation, Markdown,
    - **Skills Used**: Markdown, JSON, GitHub
    - **Key Features**: Endpoint details, authentication setup, example usage, response structure.
 
-3. **[WiFi Security Guide](https://github.com/GFiorino/WiFi-Security-Guide)**
+3. **[How To Secure Home Wi-Fi Guide](https://github.com/GFiorino/How-to-Secure-Home-WiFi-Guide)**
    - **Overview**: A user guide on securing home WiFi networks to enhance cybersecurity awareness.
    - **Skills Used**: Markdown, GitHub
    - **Key Features**: Step-by-step instructions, visuals, FAQs, and troubleshooting.
